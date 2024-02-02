@@ -5,6 +5,5 @@ footer: | # Using the pipe character (|) for multiline content
   <br><br>
   <a href="https://www.linkedin.com/in/silvia-bebawy-255565150/">View My LinkedIn Profile</a>
 theme: jekyll-theme-minimal
-show_downloads: true
 github:
   is_project_page: false
