@@ -1,4 +1,8 @@
 title: Silvia Bebawy
 logo: assets/img/download.png
-description: 
+description: Data Analyst
+<a href="https://www.linkedin.com/in/silvia-bebawy-255565150/">View My LinkedIn Profile</a>
 theme: jekyll-theme-minimal
+show_downloads: true
+github:
+  is_project_page: false
