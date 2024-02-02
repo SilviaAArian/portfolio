@@ -1,9 +1,10 @@
 title: Silvia Bebawy
 logo: assets/img/download.png
-description: Data Analyst
-footer: | # Using the pipe character (|) for multiline content
+description: >
+  Computer Engineer seeking a career with data science
   <br><br>
   <a href="https://www.linkedin.com/in/silvia-bebawy-255565150/">View My LinkedIn Profile</a>
 theme: jekyll-theme-minimal
 github:
   is_project_page: false
+  
