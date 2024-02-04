@@ -4,14 +4,14 @@
 
 ### Project 1
 
-## The Problem:
+#### The Problem:
 .....
 
-## The approach
+#### The approach
 ...
 
-## Representation
-#in another words....
+#### Representation
+#####in another words....
 
 ---
 
