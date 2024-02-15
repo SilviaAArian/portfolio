@@ -17,7 +17,7 @@
 
 [![Tableau Visualization](assets/img/Year Vs. Births.png)]
 
-[![Tableau Public](assets/img/Year Vs. Births.png)](https://public.tableau.com/app/profile/silvia.bebawy/viz/BirthDatayear-births/Sheet32)
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-View%20Sheet-blue)](https://public.tableau.com/app/profile/silvia.bebawy/viz/BirthDatayear-births/Sheet32)
 
 
 ---
