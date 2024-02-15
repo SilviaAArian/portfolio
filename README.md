@@ -2,15 +2,27 @@
 
 ---
 
-### Project 1
+### Births in the USA
+Data is representing births in all US between 1985 and 2015. 
+The source: https://github.com/the-pudding/data/tree/master/births
 
-#### The Problem:
-.....
+#### Overview
+Presented Fields: Year, Month, State Births, County Births, State, County
+Size of dataset: 321475 entries 
 
-#### The approach
-...
+#### Data Cleaning and Preprocessing
+assets/img/ss1.png
 
-#### Representation
+
+
+
+
+
+
+
+
+
+
 *in another words*....
 
 ![Tableau Visualization](assets/img/Year Vs. Births.png)
