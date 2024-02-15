@@ -15,7 +15,9 @@
 #### Representation
 *in another words*....
 
-[![Tableau Visualization](assets/img/Year Vs. Births.png)]((https://public.tableau.com/views/BirthDatayear-births/Sheet32?:language=en-US&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/BirthDatayear-births/Sheet32?:language=en-US&:display_count=n&:origin=viz_share_link)
+[![Tableau Visualization](assets/img/Year Vs. Births.png)]
+
+[![Tableau Public](assets/img/Year Vs. Births.png)](https://public.tableau.com/app/profile/silvia.bebawy/viz/BirthDatayear-births/Sheet32)
 
 
 ---
