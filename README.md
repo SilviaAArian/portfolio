@@ -11,8 +11,8 @@ Size of dataset: 321475 entries
 
 #### Data Cleaning and Preprocessing
 First thing was to filter the data by state to only the first 50 states, we ended with 313226 entries then map each to its name.
-![Image Alt text](assets/img/ss1.png "Optional title"))
-![](assets/img/ss1.png) 
+![Image Alt text](/assets/img/ss1.png "Optional title"))
+![](/assets/img/ss1.png) 
 ![Jupiter Notebook screenshot](assets/img/ss2.png)
 
 
