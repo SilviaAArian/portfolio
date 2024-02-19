@@ -2,18 +2,16 @@
 
 ---
 
-### Births in the USA
-Data is representing births in all US between 1985 and 2015.
-
+### Births in the USA 1985-2015
 Link to [the source](https://github.com/the-pudding/data/tree/master/births){:target="_blank"}
 
 #### Overview
 Presented Fields: Year, Month, State Births, County Births, State and County.
-
 Size of dataset: 321475 entries 
 
 #### Data Cleaning and Preprocessing
 First thing was to filter the data by state to only the first 50 states, we ended with 313226 entries then map each to its name.
+![Image Alt text](assets/img/ss1.png "Optional title"))
 ![](assets/img/ss1.png) 
 ![Jupiter Notebook screenshot](assets/img/ss2.png)
 
