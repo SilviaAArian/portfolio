@@ -3,7 +3,6 @@
 ---
 
 ### Births in the USA 1985-2015
-###[Births in the USA 1985-2015](https://github.com/the-pudding/data/tree/master/births"GitHub Repository"){:target="_blank"}
 
 Link to [the source](https://github.com/the-pudding/data/tree/master/births){:target="_blank"}
 
@@ -20,7 +19,7 @@ First thing was to filter the data by state to only the first 50 states, we ende
 #### Visualizations
 ![Tableau Visualization]("assets/img/.png")
 ![Tableau Visualization]("assets/img/.png")
-![Tableau Visualization](assets/img/Year Vs. Births.png"Total of Births by Year")
+![Tableau Visualization](assets/img/Year Vs. Births.png "Total of Births by Year")
 
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-View%20Sheet-blue)](https://public.tableau.com/app/profile/silvia.bebawy/viz/BirthDatayear-births/Sheet32){:target="_blank"}
 
