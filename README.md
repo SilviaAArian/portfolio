@@ -21,6 +21,7 @@ First thing was to filter the data by state to only the first 50 states, we ende
 ![Tableau Visualization](assets/img/Year Vs. Births.png "Total of Births by Year")
 ![Tableau Visualization](assets/img/Births Forecast.png "Births Forecast till 2030")
 ![Tableau Visualization](assets/img/Total Births.png "Total Births Map")
+![Tableau Visualization](assets/img/Total Births by State.png "Total Births by State")
 
 
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-View%20Sheet-blue)](https://public.tableau.com/app/profile/silvia.bebawy/viz/BirthDatayear-births/Sheet32){:target="_blank"}
